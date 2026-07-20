@@ -1,0 +1,23 @@
+# Dataset files
+data/*.csv
+*.csv
+
+# Saved models and outputs
+*.pkl
+*.joblib
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
